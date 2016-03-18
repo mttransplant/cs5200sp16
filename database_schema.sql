@@ -1,0 +1,10 @@
+drop table if exists Student;
+drop table if exists Registration;
+drop table if exists Section;
+drop table if exists Course;
+drop table if exists Instructor;
+drop table if exists Department;
+drop table if exists Advisor;
+drop table if exists Building;
+drop table if exists Location;
+drop table if exists OnCampusHousing;
